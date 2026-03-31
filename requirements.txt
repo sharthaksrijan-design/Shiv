@@ -1,0 +1,7 @@
+numpy
+scipy
+torch
+torchvision
+datasets
+nltk
+tqdm
